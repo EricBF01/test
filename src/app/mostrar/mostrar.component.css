@@ -1,0 +1,9 @@
+span{
+    font-size: 2rem;
+    border-left: 2px solid white;
+    padding: 5px;
+}
+
+span:hover{
+    font-size: 3rem;
+}

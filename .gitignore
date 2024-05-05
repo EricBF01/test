@@ -40,3 +40,6 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+src/app/buscar/buscar.component.spec.ts
+src/app/mostrar/mostrar.component.spec.ts
+src/app/shared/heroes.service.spec.ts
